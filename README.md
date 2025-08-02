@@ -3,61 +3,46 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=06B6D4&center=true&vCenter=true&random=false&width=600&lines=Software+Engineer+(21+y.o);Mobile+Developer;Fintech+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=06B6D4&center=true&vCenter=true&random=false&width=600&lines=Software+Engineer;Frontend+Developer;Creative+Tech+Lover" alt="Typing SVG" />
 </p>
 
 ---
 
-### About Me
+### 🌸 About Me
 
-- I'm a 21-year-old software engineer working in a fintech company  
-- I specialize in mobile development and backend tools  
-- I enjoy building automation tools, dashboards, and exploring AI use cases  
-- Gamer on weekends (eFootball, NBA 2K, ETS)
+- Passionate about crafting **pixel-perfect** and **creative frontend experiences**  
+- Currently exploring the **frontend** and **fullstack** ecosystems  
+- I love **photography** and **playing volleyball** on weekends
 
 ---
 
-### Favorite Tech Stack
+### 🧰 Favorite Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ---
 
-### Projects
-
-#### [Gicode](https://github.com/Tiavina22/gicode)  
-AI-powered Git commit message generator using Gemini.
-
-#### [Bupy](https://github.com/Tiavina22/bupy)  
-Open-source CLI for automated PostgreSQL backups.
-
-#### [Gitdash](https://github.com/Tiavina22/gitdash)  
-GitHub profile dashboard with clean contribution analytics.
-
----
-
-### GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tiavina22&theme=transparent&show_icons=true&locale=en&layout=compact" alt="Tiavina22" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DarliingRm&theme=transparent&show_icons=true&locale=en&layout=compact" alt="DarliingRm" />
 </p>
 
 ---
 
-### Links
+### 🔗 Links
 
-- [LinkedIn](https://www.linkedin.com/in/tiavina-ramilison/)
-- [Website](https://tiavina-ramilison.vercel.app)
+- [LinkedIn](https://www.linkedin.com/in/malala-ramangason/)
+- [Website](https://malala-ramangason.vercel.app)
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=00D991&center=true&vCenter=true&random=false&width=600&lines=Thanks+for+visiting+my+profile" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=00D991&center=true&vCenter=true&random=false&width=600&lines=Thanks+for+visiting+my+profile!" />
 </p>
